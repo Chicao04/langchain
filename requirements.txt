@@ -1,3 +1,11 @@
 langchain
+langchain-community
+langchain-text-splitters
 langchain-google-genai
+langchain-chroma
 python-dotenv
+fastapi
+uvicorn
+chromadb 
+pypdf 
+docx2txt
