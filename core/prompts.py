@@ -16,3 +16,18 @@ class AIPrompts:
                 "Hãy phân tích giúp tôi vấn đề/dữ liệu sau đây:\n{input_data}"
             )
         ])
+
+    @staticmethod
+    def get_assistant_prompt():
+        """Prompt dùng cho trợ lý mini hội thoại"""
+        return ChatPromptTemplate.from_messages([
+            (
+                "system",
+                "Bạn là một trợ lý mini thân thiện, trả lời bằng tiếng Việt, ngắn gọn, rõ ràng và thực dụng. "
+                "Nếu thiếu thông tin thì hỏi lại đúng 1 câu hỏi làm rõ. Nếu có thể, hãy đưa ra các bước làm cụ thể."
+            ),
+            (
+                "user",
+                "Bối cảnh bổ sung:\n{context}\n\nNgười dùng hỏi:\n{user_input}"
+            )
+        ])
