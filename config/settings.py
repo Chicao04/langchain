@@ -8,7 +8,7 @@ load_dotenv()
 
 class AIConfig:
     @staticmethod
-    def get_gemini_model(model_name: str = "gemini-2.5-flash", temperature: float = 0.3):
+    def get_gemini_model(model_name: str = "gemini-3.1-flash-lite", temperature: float = 0.3):
         """Khởi tạo và cấu hình model Gemini với cơ chế tự sửa lỗi RPM"""
         return ChatGoogleGenerativeAI(
             model=model_name,

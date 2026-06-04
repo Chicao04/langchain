@@ -1,4 +1,5 @@
 # core/chains.py
+from config.output import OutputConfig
 from config.settings import AIConfig
 from core.prompts import AIPrompts
 
@@ -18,7 +19,7 @@ class MiniAssistantChain:
                 "user_input": user_input,
                 "context": context or "Không có bối cảnh bổ sung."
             })
-            return response.content
+            return OutputConfig.format_assistant_text(response)
         except Exception as e:
             return f"Lỗi trong quá trình xử lý Chain: {str(e)}"
 

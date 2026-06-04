@@ -11,7 +11,7 @@ def main():
         try:
             user_input = input("Bạn: ").strip()
         except (KeyboardInterrupt, EOFError):
-            print("\n[Hệ thống] Đã thoát.")
+            print("\n[Hệ thống] đã thoát.") 
             break
 
         if not user_input: 
