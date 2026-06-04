@@ -3,6 +3,8 @@ learn-langchain/
 ├── .env                  # Lưu API Key, ví dụ: GOOGLE_API_KEY=...
 ├── .gitignore            # Chặn commit .env và file tạm
 ├── requirements.txt      # Danh sách thư viện cần cài
+├── api/                  # FastAPI backend cho trợ lý mini
+│   └── main.py           # Tạo endpoint /chat và /health
 │
 ├── config/               # Cấu hình hệ thống
 │   └── settings.py       # Khởi tạo model, cấu hình tham số LLM
@@ -50,8 +52,46 @@ python app.py
 - `core/prompts.py`: nơi định nghĩa prompt cho trợ lý mini.
 - `core/chains.py`: nơi ghép prompt và model để xử lý input.
 - `app.py`: vòng lặp hỏi đáp trong terminal.
+- `api/main.py`: backend FastAPI để gọi trợ lý qua HTTP.
 
 ## Ghi chú thêm
 
 - `ITAnalyzerChain` vẫn được giữ lại như một lớp tương thích ngược, nhưng luồng chính hiện tại là `MiniAssistantChain`.
 - Nếu sau này muốn mở rộng, có thể thêm memory, tool calling, hoặc tách riêng các chế độ như chat, phân tích log, tra cứu tài liệu.
+
+## Chạy FastAPI
+
+1. Cài thêm FastAPI và Uvicorn nếu chưa có:
+
+```bash
+pip install -r requirements.txt
+```
+
+2. Chạy server:
+
+```bash
+uvicorn api.main:app --reload
+```
+
+3. Kiểm tra server:
+
+```bash
+curl http://127.0.0.1:8000/health
+```
+
+4. Gửi câu hỏi tới `/chat`:
+
+```bash
+curl -X POST "http://127.0.0.1:8000/chat" \
+	-H "Content-Type: application/json" \
+	-d "{\"user_input\": \"Hãy chào tôi bằng tiếng Việt\"}"
+```
+
+Nếu bạn dùng Postman hoặc frontend, body JSON có thể như sau:
+
+```json
+{
+	"user_input": "Hãy tóm tắt dự án này",
+	"context": "Người dùng đang học LangChain"
+}
+```
