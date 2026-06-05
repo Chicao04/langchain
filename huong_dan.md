@@ -53,6 +53,8 @@ python app.py
 - `core/chains.py`: nơi ghép prompt và model để xử lý input.
 - `app.py`: vòng lặp hỏi đáp trong terminal.
 - `api/main.py`: backend FastAPI để gọi trợ lý qua HTTP.
+- `core/loaders.py`: nơi đọc các file docs/pdf ra số kiểu như scan 
+- `core/splitters.py`: Chia nhỏ văn bản (Text Splitting)
 
 ## Ghi chú thêm
 
