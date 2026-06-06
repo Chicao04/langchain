@@ -1,0 +1,150 @@
+==================================================
+   KẾT QUẢ TRÍCH XUẤT DỮ LIỆU BẢNG: KMA_De-an-TS-2025-24.02.25_Dang-Web
+==================================================
+
+--- BẢNG SỐ 1 ---
+Kích thước: 2 hàng x 4 cột
+Cột: ['STT', 'Loại trường', 'Tên trường', 'Địa điểm']
+
+|   STT | Loại trường   | Tên trường               | Địa điểm                           |
+|------:|:--------------|:-------------------------|:-----------------------------------|
+|     1 | Cơ sở đào tạo | Học viện Kỹ thuật mật mã | 141 đường Chiến Thắng, Tân Triều,  |
+|       | chính         |                          | Thanh Trì, Hà Nội.                 |
+|     2 | Phân hiệu     | Phân hiệu Học viện Kỹ    | 17A đường Cộng Hòa, phường 4, quận |
+|       |               | thuật mật mã tại TP. Hồ  | Tân Bình, TP. Hồ Chí Minh.         |
+|       |               | Chí Minh                 |                                    |
+
+------------------------------------------------------------
+
+--- BẢNG SỐ 2 ---
+Kích thước: 3 hàng x 6 cột
+Cột: ['STT', 'Năm tuyển sinh', 'Phương thức tuyển sinh', '', '', '']
+
+|   STT | Năm tuyển sinh      | Phương thức tuyển sinh   |           |                   |         |
+|------:|:--------------------|:-------------------------|:----------|:------------------|:--------|
+|       |                     | Thi tuyển                | Xét tuyển | Kết hợp thi tuyển | Ghi chú |
+|       |                     |                          |           | và xét tuyển      |         |
+|     1 | Năm tuyển sinh 2024 |                          | X         |                   |         |
+|     2 | Năm tuyển sinh 2023 |                          | X         |                   |         |
+
+------------------------------------------------------------
+
+--- BẢNG SỐ 3 ---
+Kích thước: 6 hàng x 9 cột
+Cột: ['TT', 'Lĩnh vực/ Ngành/ Nhóm ngành/tổ\nhợp xét tuyển', 'Phương thức xét\ntuyển', 'Năm tuyển sinh 2023', '', '', 'Năm tuyển sinh 2024', '', '']
+
+|   TT | Lĩnh vực/ Ngành/ Nhóm ngành/tổ   | Phương thức xét   | Năm tuyển sinh 2023   |         |       | Năm tuyển sinh 2024   |         |       |
+|      | hợp xét tuyển                    | tuyển             |                       |         |       |                       |         |       |
+|-----:|:---------------------------------|:------------------|:----------------------|:--------|:------|:----------------------|:--------|:------|
+|      |                                  |                   | Chỉ                   | Số nhập | Điểm  | Chỉ                   | Số nhập | Điểm  |
+|      |                                  |                   | tiêu                  | học     | trúng | tiêu                  | học     | trúng |
+|      |                                  |                   |                       |         | tuyển |                       |         | tuyển |
+|    1 | Lĩnh vực 1/nhóm ngành V/ngành    |                   |                       |         |       |                       |         |       |
+|      | Công nghệ thông tin (Cơ sở Hà    | Xét tuyển theo    | 130                   | 125     | 26.40 | 140                   | 150     | 26.1  |
+|      | Nội)                             | kết quả kỳ thi    |                       |         |       |                       |         |       |
+|      |                                  | tốt nghiệp        |                       |         |       |                       |         |       |
+|      |                                  | THPT do Bộ        |                       |         |       |                       |         |       |
+|      |                                  | Giáo dục và       |                       |         |       |                       |         |       |
+|      |                                  | Đào tạo tổ chức   |                       |         |       |                       |         |       |
+|      | An toàn thông tin (Cơ sở Hà Nội) |                   | 270                   | 266     | 25.60 | 280                   | 280     | 25.95 |
+|      | Công nghệ thông tin (Cơ sở TP.   |                   | 0                     |         |       | 0                     | 0       |       |
+|      | Hồ Chí Minh)                     |                   |                       |         |       |                       |         |       |
+|      | An toàn thông tin (Cơ sở TP. Hồ  |                   | 60                    | 56      | 25.0  | 80                    | 84      | 24.85 |
+|      | Chí Minh)                        |                   |                       |         |       |                       |         |       |
+
+------------------------------------------------------------
+
+--- BẢNG SỐ 4 ---
+Kích thước: 3 hàng x 9 cột
+Cột: ['TT', 'Lĩnh vực/ Ngành/ Nhóm ngành/tổ\nhợp xét tuyển', 'Phương thức xét\ntuyển', 'Năm tuyển sinh 2023', '', '', 'Năm tuyển sinh 2024', '', '']
+
+| TT   | Lĩnh vực/ Ngành/ Nhóm ngành/tổ   | Phương thức xét   | Năm tuyển sinh 2023   |         |       | Năm tuyển sinh 2024   |         |       |
+|      | hợp xét tuyển                    | tuyển             |                       |         |       |                       |         |       |
+|:-----|:---------------------------------|:------------------|:----------------------|:--------|:------|:----------------------|:--------|:------|
+|      |                                  |                   | Chỉ                   | Số nhập | Điểm  | Chỉ                   | Số nhập | Điểm  |
+|      |                                  |                   | tiêu                  | học     | trúng | tiêu                  | học     | trúng |
+|      |                                  |                   |                       |         | tuyển |                       |         | tuyển |
+|      | Kỹ thuật Điện tử - Viễn thông    |                   | 100                   | 101     | 25.0  | 140                   | 155     | 25.35 |
+|      | (Cơ sở Hà Nội)                   |                   |                       |         |       |                       |         |       |
+| Tổng |                                  |                   | 560                   | 548     |       | 640                   | 669     |       |
+
+------------------------------------------------------------
+
+--- BẢNG SỐ 5 ---
+Kích thước: 7 hàng x 15 cột
+Cột: ['TT', 'Trình độ\nđào tạo', 'Mã ngành/ nhóm\nngành xét tuyển', 'Tên ngành/ nhóm\nngành xét tuyển', 'Mã phương\nthức xét\ntuyển', 'Tên phương\nthức xét\ntuyển', 'Chỉ tiêu\n(dự kiến)', 'Tổ hợp môn xét\ntuyển 1', '', 'Tổ hợp môn xét\ntuyển 2', '', 'Tổ hợp môn xét tuyển 3', '', 'Tổ hợp môn xét\ntuyển 4', '']
+
+|   TT | Trình độ   | Mã ngành/ nhóm    | Tên ngành/ nhóm     |   Mã phương | Tên phương   |    Chỉ tiêu | Tổ hợp môn xét   |       | Tổ hợp môn xét   |       | Tổ hợp môn xét tuyển 3   |       | Tổ hợp môn xét   |       |
+|      | đào tạo    | ngành xét tuyển   | ngành xét tuyển     |    thức xét | thức xét     |   (dự kiến) | tuyển 1          |       | tuyển 2          |       |                          |       | tuyển 4          |       |
+|      |            |                   |                     |       tuyển | tuyển        |             |                  |       |                  |       |                          |       |                  |       |
+|-----:|:-----------|:------------------|:--------------------|------------:|:-------------|------------:|:-----------------|:------|:-----------------|:------|:-------------------------|:------|:-----------------|:------|
+|      |            |                   |                     |             |              |             | Tổ hợp           | Môn   | Tổ hợp           | Môn   | Tổ hợp môn               | Môn   | Tổ hợp           | Môn   |
+|      |            |                   |                     |             |              |             | môn              | chính | môn              | chính |                          | chính | môn              | chính |
+|  1   | Đại học    |                   |                     |             |              |             |                  |       |                  |       |                          |       |                  |       |
+|  1.1 |            | 7480201KMA        | Công nghệ thông tin |         100 | Xét kết quả  |         140 | A00              |       | A01              |       | Toán, Tiếng              |       | Toán,            |       |
+|      |            |                   | (cơ sở Hà Nội)      |             |              |             |                  |       |                  |       | Anh, Tin                 |       | Vật lý,          |       |
+|      |            |                   |                     |             |              |             |                  |       |                  |       | học                      |       | Tin học          |       |
+|      |            |                   |                     |             | thi tốt      |             |                  |       |                  |       |                          |       |                  |       |
+|      |            |                   |                     |             | nghiệp       |             |                  |       |                  |       |                          |       |                  |       |
+|      |            |                   |                     |             | THPT         |             |                  |       |                  |       |                          |       |                  |       |
+|  1.2 |            | 7480202KMA        | An toàn thông tin   |             |              |         240 | A00              |       | A01              |       | Toán, Tiếng              |       | Toán,            |       |
+|      |            |                   | (cơ sở Hà Nội)      |             |              |             |                  |       |                  |       | Anh, Tin                 |       | Vật lý,          |       |
+|      |            |                   |                     |             |              |             |                  |       |                  |       | học                      |       | Tin học          |       |
+|  1.3 |            | 7520207           | Kỹ thuật Điện tử-   |             |              |         140 | A00              |       | A01              |       | Toán, Tiếng              |       | Toán,            |       |
+|      |            |                   | Viễn thông (cơ sở   |             |              |             |                  |       |                  |       | Anh, Tin                 |       | Vật lý,          |       |
+|      |            |                   | Hà Nội)             |             |              |             |                  |       |                  |       | học                      |       | Tin học          |       |
+|  1.4 |            | 7480202KMP        | An toàn thông tin   |             |              |          80 | A00              |       | A01              |       | Toán, Tiếng              |       | Toán,            |       |
+|      |            |                   | (TP. Hồ Chí Minh)   |             |              |             |                  |       |                  |       | Anh, Tin                 |       | Vật lý,          |       |
+|      |            |                   |                     |             |              |             |                  |       |                  |       | học                      |       | Tin học          |       |
+
+------------------------------------------------------------
+
+--- BẢNG SỐ 6 ---
+Kích thước: 2 hàng x 1 cột
+Cột: ['thi tốt']
+
+| thi tốt   |
+|:----------|
+| nghiệp    |
+| THPT      |
+
+------------------------------------------------------------
+
+--- BẢNG SỐ 7 ---
+Kích thước: 6 hàng x 5 cột
+Cột: ['TT', 'Mã ngành\ntheo cơ sở\nđào tạo', 'Tên ngành học', 'Chỉ tiêu\ndự kiến', 'Tổ hợp môn\nxét tuyển']
+
+| TT                                      | Mã ngành     | Tên ngành học                               |   Chỉ tiêu | Tổ hợp môn      |
+|                                         | theo cơ sở   |                                             |    dự kiến | xét tuyển       |
+|                                         | đào tạo      |                                             |            |                 |
+|:----------------------------------------|:-------------|:--------------------------------------------|-----------:|:----------------|
+| I. Cơ sở đào tạo Hà Nội                 |              |                                             |        520 | - Toán, Vật lý, |
+|                                         |              |                                             |            | Hoá học (A00);  |
+|                                         |              |                                             |            | - Toán, Vật lý, |
+|                                         |              |                                             |            | Tiếng Anh       |
+|                                         |              |                                             |            | (A01);          |
+|                                         |              |                                             |            | - Toán, Tiếng   |
+|                                         |              |                                             |            | Anh, Tin học;   |
+|                                         |              |                                             |            | - Toán, Vật lý, |
+|                                         |              |                                             |            | Tin học.        |
+| 1                                       | 7480202KMA   | Ngành An toàn thông tin                     |        240 |                 |
+|                                         |              | Thời gian đào tạo: 4.5 năm (cấp bằng Kỹ sư) |            |                 |
+|                                         |              | Chuyên ngành:                               |            |                 |
+|                                         |              | - An toàn hệ thống thông tin                |            |                 |
+|                                         |              | - Công nghệ phần mềm an toàn                |            |                 |
+|                                         |              | - Bảo đảm an toàn không gian mạng           |            |                 |
+| 2                                       | 7480201KMA   | Ngành Công nghệ thông tin                   |        140 |                 |
+|                                         |              | Thời gian đào tạo: 4.5 năm (cấp bằng Kỹ sư) |            |                 |
+|                                         |              | Chuyên ngành:                               |            |                 |
+|                                         |              | - Kỹ thuật phần mềm di động                 |            |                 |
+|                                         |              | - Trí tuệ nhân tạo ứng dụng                 |            |                 |
+| 3                                       | 7520207      | Ngành Kỹ thuật Điện tử, Viễn thông          |        140 |                 |
+|                                         |              | Thời gian đào tạo: 4.5 năm (cấp bằng Kỹ sư) |            |                 |
+|                                         |              | Chuyên ngành:                               |            |                 |
+|                                         |              | - Hệ thống nhúng và Thiết kế vi mạch        |            |                 |
+| II. Cơ sở đào tạo Thành phố Hồ Chí Minh |              |                                             |         80 |                 |
+| 1                                       | 7480202KMP   | Ngành An toàn thông tin                     |         80 |                 |
+|                                         |              | Thời gian đào tạo: 4 năm (cấp bằng Cử nhân) |            |                 |
+
+------------------------------------------------------------
+
