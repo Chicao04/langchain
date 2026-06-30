@@ -2,21 +2,21 @@
     {
         "text_description": "Học viện Kỹ thuật mật mã là cơ sở đào tạo chính, có địa chỉ trụ sở đặt tại số 141 đường Chiến Thắng, xã Tân Triều, huyện Thanh Trì, thành phố Hà Nội.",
         "metadata": {
-            "stt": 1,
+            "stt": "1",
             "loai_truong": "Cơ sở đào tạo chính",
             "ten_truong": "Học viện Kỹ thuật mật mã",
             "dia_diem": "141 đường Chiến Thắng, Tân Triều, Thanh Trì, Hà Nội",
-            "source_document": "KMA_De_An_2025"
+            "source_document": "KMA_De-an-TS-2025-24.02.25_Dang-Web"
         }
     },
     {
         "text_description": "Phân hiệu Học viện Kỹ thuật mật mã tại TP. Hồ Chí Minh có địa chỉ đặt tại số 17A đường Cộng Hòa, phường 4, quận Tân Bình, thành phố Hồ Chí Minh.",
         "metadata": {
-            "stt": 2,
+            "stt": "2",
             "loai_truong": "Phân hiệu",
             "ten_truong": "Phân hiệu Học viện Kỹ thuật mật mã tại TP. Hồ Chí Minh",
             "dia_diem": "17A đường Cộng Hòa, phường 4, quận Tân Bình, TP. Hồ Chí Minh",
-            "source_document": "KMA_De_An_2025"
+            "source_document": "KMA_De-an-TS-2025-24.02.25_Dang-Web"
         }
     },
     {
@@ -24,7 +24,7 @@
         "metadata": {
             "nam_tuyen_sinh": "2024",
             "phuong_thuc_tuyen_sinh": "Xét tuyển",
-            "source_document": "KMA_De_An_2025"
+            "source_document": "KMA_De-an-TS-2025-24.02.25_Dang-Web"
         }
     },
     {
@@ -32,11 +32,11 @@
         "metadata": {
             "nam_tuyen_sinh": "2023",
             "phuong_thuc_tuyen_sinh": "Xét tuyển",
-            "source_document": "KMA_De_An_2025"
+            "source_document": "KMA_De-an-TS-2025-24.02.25_Dang-Web"
         }
     },
     {
-        "text_description": "Đối với ngành Công nghệ thông tin tại cơ sở Hà Nội, phương thức xét tuyển theo kết quả kỳ thi tốt nghiệp trung học phổ thông do Bộ Giáo dục và Đào tạo tổ chức ghi nhận năm 2023 có 130 chỉ tiêu, 125 sinh viên nhập học với điểm trúng tuyển là 26.40. Năm 2024, ngành này có 140 chỉ tiêu, 150 sinh viên nhập học với điểm trúng tuyển là 26.1.",
+        "text_description": "Đối với ngành Công nghệ thông tin tại cơ sở Hà Nội, phương thức xét tuyển theo kết quả kỳ thi tốt nghiệp trung học phổ thông năm 2023 có chỉ tiêu là 130, số lượng nhập học thực tế là 125 với điểm trúng tuyển là 26.40. Năm 2024, chỉ tiêu tuyển sinh là 140, số lượng nhập học là 150 với điểm trúng tuyển là 26.1.",
         "metadata": {
             "nganh_hoc": "Công nghệ thông tin",
             "co_so": "Hà Nội",
@@ -47,11 +47,11 @@
             "nam_2024_chi_tieu": 140,
             "nam_2024_so_nhap_hoc": 150,
             "nam_2024_diem_trung_tuyen": 26.1,
-            "source_document": "KMA_De_An_2025"
+            "source_document": "KMA_De-an-TS-2025-24.02.25_Dang-Web"
         }
     },
     {
-        "text_description": "Đối với ngành An toàn thông tin tại cơ sở Hà Nội, phương thức xét tuyển theo kết quả kỳ thi tốt nghiệp trung học phổ thông do Bộ Giáo dục và Đào tạo tổ chức ghi nhận năm 2023 có 270 chỉ tiêu, 266 sinh viên nhập học với điểm trúng tuyển là 25.60. Năm 2024, ngành này có 280 chỉ tiêu, 280 sinh viên nhập học với điểm trúng tuyển là 25.95.",
+        "text_description": "Đối với ngành An toàn thông tin tại cơ sở Hà Nội, phương thức xét tuyển theo kết quả kỳ thi tốt nghiệp trung học phổ thông năm 2023 có chỉ tiêu là 270, số lượng nhập học thực tế là 266 với điểm trúng tuyển là 25.60. Năm 2024, chỉ tiêu tuyển sinh là 280, số lượng nhập học là 280 với điểm trúng tuyển là 25.95.",
         "metadata": {
             "nganh_hoc": "An toàn thông tin",
             "co_so": "Hà Nội",
@@ -62,11 +62,11 @@
             "nam_2024_chi_tieu": 280,
             "nam_2024_so_nhap_hoc": 280,
             "nam_2024_diem_trung_tuyen": 25.95,
-            "source_document": "KMA_De_An_2025"
+            "source_document": "KMA_De-an-TS-2025-24.02.25_Dang-Web"
         }
     },
     {
-        "text_description": "Đối với ngành Công nghệ thông tin tại cơ sở TP. Hồ Chí Minh, phương thức xét tuyển theo kết quả kỳ thi tốt nghiệp trung học phổ thông do Bộ Giáo dục và Đào tạo tổ chức ghi nhận năm 2023 có 0 chỉ tiêu. Năm 2024, ngành này tiếp tục có 0 chỉ tiêu và 0 sinh viên nhập học.",
+        "text_description": "Đối với ngành Công nghệ thông tin tại cơ sở TP. Hồ Chí Minh, phương thức xét tuyển theo kết quả kỳ thi tốt nghiệp trung học phổ thông năm 2023 có chỉ tiêu là 0 và năm 2024 có chỉ tiêu là 0, số lượng nhập học là 0.",
         "metadata": {
             "nganh_hoc": "Công nghệ thông tin",
             "co_so": "TP. Hồ Chí Minh",
@@ -74,11 +74,11 @@
             "nam_2023_chi_tieu": 0,
             "nam_2024_chi_tieu": 0,
             "nam_2024_so_nhap_hoc": 0,
-            "source_document": "KMA_De_An_2025"
+            "source_document": "KMA_De-an-TS-2025-24.02.25_Dang-Web"
         }
     },
     {
-        "text_description": "Đối với ngành An toàn thông tin tại cơ sở TP. Hồ Chí Minh, phương thức xét tuyển theo kết quả kỳ thi tốt nghiệp trung học phổ thông do Bộ Giáo dục và Đào tạo tổ chức ghi nhận năm 2023 có 60 chỉ tiêu, 56 sinh viên nhập học với điểm trúng tuyển là 25.0. Năm 2024, ngành này có 80 chỉ tiêu, 84 sinh viên nhập học với điểm trúng tuyển là 24.85.",
+        "text_description": "Đối với ngành An toàn thông tin tại cơ sở TP. Hồ Chí Minh, phương thức xét tuyển theo kết quả kỳ thi tốt nghiệp trung học phổ thông năm 2023 có chỉ tiêu là 60, số lượng nhập học thực tế là 56 với điểm trúng tuyển là 25.0. Năm 2024, chỉ tiêu tuyển sinh là 80, số lượng nhập học là 84 với điểm trúng tuyển là 24.85.",
         "metadata": {
             "nganh_hoc": "An toàn thông tin",
             "co_so": "TP. Hồ Chí Minh",
@@ -89,11 +89,11 @@
             "nam_2024_chi_tieu": 80,
             "nam_2024_so_nhap_hoc": 84,
             "nam_2024_diem_trung_tuyen": 24.85,
-            "source_document": "KMA_De_An_2025"
+            "source_document": "KMA_De-an-TS-2025-24.02.25_Dang-Web"
         }
     },
     {
-        "text_description": "Ngành Kỹ thuật Điện tử - Viễn thông tại cơ sở Hà Nội có chỉ tiêu tuyển sinh năm 2023 là 100, số lượng sinh viên nhập học thực tế là 101 với điểm trúng tuyển là 25.0. Đối với năm tuyển sinh 2024, ngành này có chỉ tiêu là 140, số lượng sinh viên nhập học là 155 và điểm trúng tuyển là 25.35.",
+        "text_description": "Ngành Kỹ thuật Điện tử - Viễn thông tại cơ sở Hà Nội có chỉ tiêu tuyển sinh năm 2023 là 100, số lượng sinh viên nhập học thực tế là 101 với điểm trúng tuyển là 25.0. Đối với năm tuyển sinh 2024, chỉ tiêu của ngành này là 140, số lượng sinh viên nhập học là 155 và điểm trúng tuyển là 25.35.",
         "metadata": {
             "nganh_hoc": "Kỹ thuật Điện tử - Viễn thông",
             "co_so": "Hà Nội",
@@ -103,11 +103,11 @@
             "nam_2024_chi_tieu": 140,
             "nam_2024_so_nhap_hoc": 155,
             "nam_2024_diem_trung_tuyen": 25.35,
-            "source_document": "KMA_De_An_2025"
+            "source_document": "KMA_De-an-TS-2025-24.02.25_Dang-Web"
         }
     },
     {
-        "text_description": "Ngành Công nghệ thông tin (cơ sở Hà Nội) có mã ngành 7480201KMA, trình độ Đại học, với chỉ tiêu dự kiến là 140 sinh viên. Phương thức xét tuyển là xét kết quả thi tốt nghiệp THPT (mã 100). Các tổ hợp môn xét tuyển bao gồm: A00, A01, tổ hợp Toán - Tiếng Anh - Tin học, và tổ hợp Toán - Vật lý - Tin học.",
+        "text_description": "Ngành Công nghệ thông tin (cơ sở Hà Nội) có mã ngành 7480201KMA, trình độ Đại học, với chỉ tiêu dự kiến là 140 sinh viên. Phương thức xét tuyển là xét kết quả thi tốt nghiệp THPT (mã 100). Các tổ hợp môn xét tuyển bao gồm: A00, A01, tổ hợp Toán - Tiếng Anh - Tin học và tổ hợp Toán - Vật lý - Tin học.",
         "metadata": {
             "trinh_do": "Đại học",
             "ma_nganh": "7480201KMA",
@@ -121,11 +121,11 @@
                 "Toán, Tiếng Anh, Tin học",
                 "Toán, Vật lý, Tin học"
             ],
-            "source_document": "KMA_De_An_2025"
+            "source_document": "KMA_De-an-TS-2025-24.02.25_Dang-Web"
         }
     },
     {
-        "text_description": "Ngành An toàn thông tin (cơ sở Hà Nội) có mã ngành 7480202KMA, trình độ Đại học, với chỉ tiêu dự kiến là 240 sinh viên. Các tổ hợp môn xét tuyển bao gồm: A00, A01, tổ hợp Toán - Tiếng Anh - Tin học, và tổ hợp Toán - Vật lý - Tin học.",
+        "text_description": "Ngành An toàn thông tin (cơ sở Hà Nội) có mã ngành 7480202KMA, trình độ Đại học, với chỉ tiêu dự kiến là 240 sinh viên. Các tổ hợp môn xét tuyển bao gồm: A00, A01, tổ hợp Toán - Tiếng Anh - Tin học và tổ hợp Toán - Vật lý - Tin học.",
         "metadata": {
             "trinh_do": "Đại học",
             "ma_nganh": "7480202KMA",
@@ -137,11 +137,11 @@
                 "Toán, Tiếng Anh, Tin học",
                 "Toán, Vật lý, Tin học"
             ],
-            "source_document": "KMA_De_An_2025"
+            "source_document": "KMA_De-an-TS-2025-24.02.25_Dang-Web"
         }
     },
     {
-        "text_description": "Ngành Kỹ thuật Điện tử - Viễn thông (cơ sở Hà Nội) có mã ngành 7520207, trình độ Đại học, với chỉ tiêu dự kiến là 140 sinh viên. Các tổ hợp môn xét tuyển bao gồm: A00, A01, tổ hợp Toán - Tiếng Anh - Tin học, và tổ hợp Toán - Vật lý - Tin học.",
+        "text_description": "Ngành Kỹ thuật Điện tử - Viễn thông (cơ sở Hà Nội) có mã ngành 7520207, trình độ Đại học, với chỉ tiêu dự kiến là 140 sinh viên. Các tổ hợp môn xét tuyển bao gồm: A00, A01, tổ hợp Toán - Tiếng Anh - Tin học và tổ hợp Toán - Vật lý - Tin học.",
         "metadata": {
             "trinh_do": "Đại học",
             "ma_nganh": "7520207",
@@ -153,11 +153,11 @@
                 "Toán, Tiếng Anh, Tin học",
                 "Toán, Vật lý, Tin học"
             ],
-            "source_document": "KMA_De_An_2025"
+            "source_document": "KMA_De-an-TS-2025-24.02.25_Dang-Web"
         }
     },
     {
-        "text_description": "Ngành An toàn thông tin (TP. Hồ Chí Minh) có mã ngành 7480202KMP, trình độ Đại học, với chỉ tiêu dự kiến là 80 sinh viên. Các tổ hợp môn xét tuyển bao gồm: A00, A01, tổ hợp Toán - Tiếng Anh - Tin học, và tổ hợp Toán - Vật lý - Tin học.",
+        "text_description": "Ngành An toàn thông tin (TP. Hồ Chí Minh) có mã ngành 7480202KMP, trình độ Đại học, với chỉ tiêu dự kiến là 80 sinh viên. Các tổ hợp môn xét tuyển bao gồm: A00, A01, tổ hợp Toán - Tiếng Anh - Tin học và tổ hợp Toán - Vật lý - Tin học.",
         "metadata": {
             "trinh_do": "Đại học",
             "ma_nganh": "7480202KMP",
@@ -169,14 +169,14 @@
                 "Toán, Tiếng Anh, Tin học",
                 "Toán, Vật lý, Tin học"
             ],
-            "source_document": "KMA_De_An_2025"
+            "source_document": "KMA_De-an-TS-2025-24.02.25_Dang-Web"
         }
     },
     {
         "text_description": "Phương thức xét tuyển dựa trên kết quả kỳ thi tốt nghiệp trung học phổ thông.",
         "metadata": {
             "phuong_thuc_tuyen_sinh": "thi tốt nghiệp THPT",
-            "source_document": "KMA_De_An_2025"
+            "source_document": "KMA_De-an-TS-2025-24.02.25_Dang-Web"
         }
     },
     {
@@ -189,7 +189,7 @@
             "co_so_dao_tao": "Hà Nội",
             "thoi_gian_dao_tao": "4.5 năm",
             "bang_cap": "Kỹ sư",
-            "source_document": "KMA_De_An_2025"
+            "source_document": "KMA_De-an-TS-2025-24.02.25_Dang-Web"
         }
     },
     {
@@ -202,7 +202,7 @@
             "co_so_dao_tao": "Hà Nội",
             "thoi_gian_dao_tao": "4.5 năm",
             "bang_cap": "Kỹ sư",
-            "source_document": "KMA_De_An_2025"
+            "source_document": "KMA_De-an-TS-2025-24.02.25_Dang-Web"
         }
     },
     {
@@ -215,7 +215,7 @@
             "co_so_dao_tao": "Hà Nội",
             "thoi_gian_dao_tao": "4.5 năm",
             "bang_cap": "Kỹ sư",
-            "source_document": "KMA_De_An_2025"
+            "source_document": "KMA_De-an-TS-2025-24.02.25_Dang-Web"
         }
     },
     {
@@ -228,7 +228,7 @@
             "co_so_dao_tao": "Thành phố Hồ Chí Minh",
             "thoi_gian_dao_tao": "4 năm",
             "bang_cap": "Cử nhân",
-            "source_document": "KMA_De_An_2025"
+            "source_document": "KMA_De-an-TS-2025-24.02.25_Dang-Web"
         }
     }
 ]

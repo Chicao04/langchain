@@ -55,6 +55,8 @@ python app.py
 - `api/main.py`: backend FastAPI để gọi trợ lý qua HTTP.
 - `core/loaders.py`: nơi đọc các file docs/pdf ra số kiểu như scan 
 - `core/splitters.py`: Chia nhỏ văn bản (Text Splitting)
+- `extract_transform_data`: cập nhận thư mục đọc dữ liệu thô để sửa lý
+
 
 ## Ghi chú thêm
 
